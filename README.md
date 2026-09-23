@@ -30,10 +30,10 @@ healthcare-prediction/
 ├── healthcare_dataset.csv        # Source data
 ├── app.py                        # Streamlit frontend
 ├── train_model.py                # Model training script
-├── YourName_HealthcarePrediction.ipynb   # Jupyter Notebook (full pipeline)
+├── HealthcarePrediction.ipynb   # Jupyter Notebook (full pipeline)
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
-├── YourName_ProjectReport.docx   # Full project documentation
+├── KoduriCharishma_ProjectReport.docx   # Full project documentation
 └── models/
     ├── test_result_model.pkl
     ├── billing_model.pkl
@@ -125,8 +125,7 @@ jupyter notebook YourName_HealthcarePrediction.ipynb
 
 ## 👤 Author
 
-**YourName**  
-Replace `YourName` in file names with your actual name before submission.
+**Koduri Charishma**  
 
 ---
 
