@@ -93,7 +93,7 @@ Open your browser at **http://localhost:8501**
 
 ### 6. Run the Jupyter Notebook (optional)
 ```bash
-jupyter notebook YourName_HealthcarePrediction.ipynb
+jupyter notebook HealthcarePrediction.ipynb
 ```
 
 ---
